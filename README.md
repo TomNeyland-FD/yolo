@@ -43,7 +43,7 @@ What can I do  to help?
 Command line usage
 --------
 ```shell
-# install after cloning the repo (since this is no on pypy yet)
+# install after cloning the repo (since this is not on pypi yet)
 pip install -e . -U
 
 # run yolo on some files
